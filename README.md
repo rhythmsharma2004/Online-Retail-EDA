@@ -75,8 +75,6 @@ The data needs to extracted from AWS RDS and saved locally before proceeding to 
 
 3️⃣ **Improve mobile accessibility to the website.** Data shows most users access through desktop, which can indicate that the website does not work as well on mobile.
 
-## Project set up and how-to guides
-For detailed guides to the project, please refer to the [Github Wiki](https://github.com/selvatica-36/Exploratory-data-analysis---Online-shopping-in-retail/wiki). These guides include installation instructions, how to use the repository and details on the dataset. 
 
 ## Improvements and next steps 
 - YoY growth analysis (in number of sales).
@@ -108,5 +106,4 @@ For detailed guides to the project, please refer to the [Github Wiki](https://gi
 
 ```
 
-## License information
-This is an open source public repository. The dataset was obtained from Aicore. AiCore provided the necessary credentials to download the dataset from AWS RDS (these are not publicly available).
+
